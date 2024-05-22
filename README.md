@@ -19,7 +19,7 @@
 
 ### Automation e Data Science
 <div style="display:inline;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/>
 <img src="https://skillicons.dev/icons?i=mysql" />               
 </div>
 
