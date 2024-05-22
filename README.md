@@ -20,9 +20,7 @@
 ### Automation e Data Science
 <div style="display:inline;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
 </div>
 
 ### Outras Tecnologias
